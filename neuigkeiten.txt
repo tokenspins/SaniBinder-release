@@ -1,3 +1,4 @@
-[19.09.2021 16:30]
+[02.11.2025]
 
-- Reupload vom Keybinder + Anpassung Auto Updater
+ES LEBT
+- Erneuter Umzug des Keybinders
